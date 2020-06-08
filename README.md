@@ -1,6 +1,9 @@
 ### Autehntifikasi
 Untuk melakukan proses login silahkan gunakan akun default berikut :<br>
 Username : super<br>
+Password : password<br>
+<br>
+Username : admin<br>
 Password : password
 
 ## Fitur Fitur :
